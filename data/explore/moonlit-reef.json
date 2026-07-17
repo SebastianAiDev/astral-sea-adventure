@@ -1,15 +1,16 @@
 [
   {
     "id": 1,
+    "code": "MR-001",
+    "category": "explore",
     "region": "Moonlit Reef",
     "rarity": "common",
     "weight": 100,
     "title": "Ancient Coral Shrine",
-    "action": "explored",
-    "description": "an ancient coral shrine",
     "reward": {
       "min": 30,
       "max": 120
-    }
+    },
+    "message": "$(user) explored the Moonlit Reef and recovered {reward} Star Candies from an ancient coral shrine."
   }
 ]
