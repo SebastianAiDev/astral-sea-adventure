@@ -20,4 +20,3 @@ astral-sea-adventure/
 ├── package.json
 │
 └── README.md
-data/explore/moonlit-reef.json
