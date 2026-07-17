@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "region": "Moonlit Reef",
+    "rarity": "common",
+    "weight": 100,
+    "title": "Ancient Coral Shrine",
+    "action": "explored",
+    "description": "an ancient coral shrine",
+    "reward": {
+      "min": 30,
+      "max": 120
+    }
+  }
+]
